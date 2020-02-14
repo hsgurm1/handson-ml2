@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hsgurm1/handson-ml2/master)
+
+
 Machine Learning Notebooks
 ==========================
 
